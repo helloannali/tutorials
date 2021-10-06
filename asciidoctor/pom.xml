@@ -20,7 +20,7 @@
                     <dependency>
                         <groupId>org.asciidoctor</groupId>
                         <artifactId>asciidoctorj-pdf</artifactId>
-                        <version>1.5.0-alpha.15</version>
+                        <version>1.6.0</version>
                     </dependency>
                 </dependencies>
                 <executions>
@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.asciidoctor</groupId>
             <artifactId>asciidoctorj-pdf</artifactId>
-            <version>1.5.0-alpha.11</version>
+            <version>1.6.0</version>
         </dependency>        
     </dependencies>
 </project>
