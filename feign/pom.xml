@@ -14,7 +14,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <feign.version>9.4.0</feign.version>
+        <feign.version>11.8</feign.version>
         <lombok.version>1.16.12</lombok.version>
         <spring-boot-maven-plugin.version>1.4.2.RELEASE</spring-boot-maven-plugin.version>
     </properties>
