@@ -279,7 +279,7 @@
 
         <!-- http -->
         <httpcore.version>4.4.5</httpcore.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
 
         <!-- various -->
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
