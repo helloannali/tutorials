@@ -270,7 +270,7 @@
         <start-class>org.baeldung.demo.DemoApplication</start-class>
         <spring.version>4.3.4.RELEASE</spring.version>
         <git-commit-id-plugin.version>2.2.1</git-commit-id-plugin.version>
-        <jquery.version>3.1.1</jquery.version>
+        <jquery.version>3.6.0</jquery.version>
         <bootstrap.version>3.3.7-1</bootstrap.version>
         <subethasmtp.version>3.1.7</subethasmtp.version>
         <tomee-servlet-api.version>8.5.11</tomee-servlet-api.version>
