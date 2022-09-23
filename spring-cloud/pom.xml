@@ -38,7 +38,7 @@
         <spring-cloud-starter-eureka.version>1.2.3.RELEASE</spring-cloud-starter-eureka.version>
         <spring-cloud-starter-feign.version>1.2.3.RELEASE</spring-cloud-starter-feign.version>
         <spring-cloud-starter-hystrix.version>1.2.3.RELEASE</spring-cloud-starter-hystrix.version>
-        <spring-boot-starter-web.version>1.4.2.RELEASE</spring-boot-starter-web.version>
+        <spring-boot-starter-web.version>2.6.12</spring-boot-starter-web.version>
         <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
         <spring-boot-maven-plugin.version>1.4.2.RELEASE</spring-boot-maven-plugin.version>
     </properties>
