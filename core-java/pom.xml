@@ -326,8 +326,7 @@
                         <configuration>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
                             <transformers>
-                                <transformer
-                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>org.baeldung.executable.ExecutableMavenJar</mainClass>
                                 </transformer>
                             </transformers>
@@ -453,7 +452,7 @@
 
     <properties>
         <!-- marshalling -->
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <!-- logging -->
         <org.slf4j.version>1.7.21</org.slf4j.version>
