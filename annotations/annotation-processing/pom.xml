@@ -14,7 +14,7 @@
     <artifactId>annotation-processing</artifactId>
 
     <properties>
-        <auto-service.version>1.0-rc2</auto-service.version>
+        <auto-service.version>1.1.1</auto-service.version>
         <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
     </properties>
 
