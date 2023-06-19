@@ -159,7 +159,7 @@
         <commons-collections4.version>4.1</commons-collections4.version>
 
         <!-- util -->
-        <guava.version>20.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <commons-io.version>2.5</commons-io.version>
 
