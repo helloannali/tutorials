@@ -159,8 +159,7 @@
                         <configuration>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
                             <transformers>
-                                <transformer
-                                    implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>org.baeldung.executable.ExecutableMavenJar</mainClass>
                                 </transformer>
                             </transformers>
@@ -241,7 +240,7 @@
     <properties>
 
         <!-- util -->
-        <guava.version>21.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <commons-math3.version>3.6.1</commons-math3.version>
         <commons-io.version>2.5</commons-io.version>
