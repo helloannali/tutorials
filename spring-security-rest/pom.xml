@@ -285,7 +285,7 @@
         <!-- Spring -->
         <org.springframework.version>4.3.4.RELEASE</org.springframework.version>
         <org.springframework.security.version>4.2.0.RELEASE</org.springframework.security.version>
-        <org.springframework.hateoas.version>0.21.0.RELEASE</org.springframework.hateoas.version>
+        <org.springframework.hateoas.version>1.5.5</org.springframework.hateoas.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
