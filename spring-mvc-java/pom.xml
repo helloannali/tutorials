@@ -318,7 +318,7 @@
         <httpcore.version>4.4.5</httpcore.version>
         <httpclient.version>4.5.2</httpclient.version>
         <rest-assured.version>2.9.0</rest-assured.version>
-        <net.sourceforge.htmlunit>2.23</net.sourceforge.htmlunit>
+        <net.sourceforge.htmlunit>2.33</net.sourceforge.htmlunit>
 
         <!-- maven plugins -->
         <maven-war-plugin.version>2.6</maven-war-plugin.version>
