@@ -23,7 +23,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-zookeeper-discovery</artifactId>
-            <version>1.0.3.RELEASE</version>
+            <version>3.0.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
