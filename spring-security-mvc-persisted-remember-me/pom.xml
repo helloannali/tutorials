@@ -195,7 +195,7 @@
         <hibernate.version>5.2.5.Final</hibernate.version>
         <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
         <h2.version>1.4.193</h2.version>
-        <postgresql.version>9.4.1212</postgresql.version>
+        <postgresql.version>42.7.2</postgresql.version>
 
         <!-- various -->
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
