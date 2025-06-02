@@ -278,7 +278,7 @@
         <ehcache.version>3.1.3</ehcache.version>
         <easymock.version>3.4</easymock.version>
         <assertj.version>3.6.1</assertj.version>
-        <jasperreports.version>6.4.0</jasperreports.version>
+        <jasperreports.version>7.0.0</jasperreports.version>
 
         <log4j.version>2.8.2</log4j.version>
 
