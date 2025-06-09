@@ -19,7 +19,7 @@
     </parent>
 
     <properties>
-        <jjwt.version>0.7.0</jjwt.version>
+        <jjwt.version>0.12.0</jjwt.version>
     </properties>
 
     <dependencies>
