@@ -224,7 +224,7 @@
         <jetty.version>9.4.0.v20161208</jetty.version>
 
 
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-collections.version>3.2.2</commons-collections.version>
 
         <httpcore.version>4.4.5</httpcore.version>
@@ -236,7 +236,7 @@
         <msg-simple.version>1.1</msg-simple.version>
         <btf.version>1.2</btf.version>
         <groovy.version>2.4.7</groovy.version>
-        <wiremock.version>2.4.1</wiremock.version>
+        <wiremock.version>3.0.0</wiremock.version>
 
         <github-json-schema-validator.version>2.2.6</github-json-schema-validator.version>
         <json-schema-core.version>1.2.5</json-schema-core.version>
