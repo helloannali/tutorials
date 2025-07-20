@@ -108,8 +108,7 @@
                         <configuration>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
                             <transformers>
-                                <transformer
-                                    implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>org.baeldung.executable.ExecutableMavenJar</mainClass>
                                 </transformer>
                             </transformers>
@@ -168,7 +167,7 @@
 
     <properties>
         <!-- util -->
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <disruptor.version>3.3.6</disruptor.version>
 
         <!-- testing -->
