@@ -18,12 +18,12 @@
 		<dependency>
 			<groupId>org.openl</groupId>
 			<artifactId>org.openl.core</artifactId>
-			<version>5.19.4</version>
+			<version>5.27.12</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openl.rules</groupId>
 			<artifactId>org.openl.rules</artifactId>
-			<version>5.19.4</version>
+			<version>5.27.12</version>
 		</dependency>
 	</dependencies>
 </project>
