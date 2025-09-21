@@ -199,8 +199,8 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>4.3.4.RELEASE</org.springframework.version>
-        <org.springframework.security.version>4.2.0.RELEASE</org.springframework.security.version>
+        <org.springframework.version>6.2.11</org.springframework.version>
+        <org.springframework.security.version>6.4.11</org.springframework.security.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
