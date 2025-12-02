@@ -201,7 +201,7 @@
         <dependency>
             <groupId>io.specto</groupId>
             <artifactId>hoverfly-java</artifactId>
-            <version>0.8.1</version>
+            <version>0.14.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
